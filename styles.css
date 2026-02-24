@@ -68,7 +68,7 @@ ul{
     text-align: left;
 }   
 
-video{
+iframe{
     animation: fadeUp 1s ease forwards;
     animation-delay: 0.6s;
 }
